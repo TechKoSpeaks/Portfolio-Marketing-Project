@@ -20,6 +20,15 @@ Codebase accessibility changed to utilize screen-readers and be viable for all s
 
   - Restructured CSS styling for benefit-lead,benefit-brand and benefit-cost to single alignment to make reading easier.
 ```
+## Screenshot
+
+![code refactor demo](./assets/01-html-css-git-homework-demo.png)
+
+
+## Link
+
+(https://techkospeaks.github.io/Portfolio-Marketing-Project/)
+
 
 ## Credits
 
